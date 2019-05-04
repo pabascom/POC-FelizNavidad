@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week 1 Day 5: N(b)D</string>
+    <string name="open">Drawer Opened</string>
+    <string name="close">Drawer Closed</string>
+</resources>
