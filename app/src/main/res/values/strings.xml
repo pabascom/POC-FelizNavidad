@@ -2,4 +2,10 @@
     <string name="app_name">Week 1 Day 5: N(b)D</string>
     <string name="open">Drawer Opened</string>
     <string name="close">Drawer Closed</string>
+    <string name="taco_tuesday">Taco Tuesday</string>
+    <string name="waffle_wednesday">Waffle Wednesday</string>
+    <string name="thirsty_thursday">Thirsty Thursday</string>
+    <string name="casual_friday">Casual Friday</string>
+    <string name="search_contacts">Search Contacts</string>
+    <string name="use_flashlight">Use Flashlight</string>
 </resources>
