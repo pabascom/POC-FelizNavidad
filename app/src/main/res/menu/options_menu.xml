@@ -11,18 +11,18 @@
             android:id="@+id/waffle_wednesday"
             android:icon="@drawable/ic_tonality_black_24dp"
             android:title="@string/waffle_wednesday"
-            app:showAsAction="ifRoom" />
+            app:showAsAction="never" />
 
     <item
             android:id="@+id/thirsty_thursday"
             android:icon="@drawable/ic_local_drink_black_24dp"
             android:title="@string/thirsty_thursday"
-            app:showAsAction="ifRoom" />
+            app:showAsAction="never" />
 
     <item
             android:id="@+id/casual_friday"
             android:icon="@drawable/ic_local_hotel_black_24dp"
             android:title="@string/casual_friday"
-            app:showAsAction="ifRoom" />
+            app:showAsAction="never" />
 
 </menu>
