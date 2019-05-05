@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
         tb = findViewById(R.id.toolbar)
         setSupportActionBar(tb)
 
+
         dl = findViewById(R.id.activity_main)
         t = ActionBarDrawerToggle(this, dl, R.string.open, R.string.close)
         dl.addDrawerListener(t)
@@ -46,7 +47,10 @@ class MainActivity : AppCompatActivity() {
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         val inflater: MenuInflater = menuInflater
         inflater.inflate(R.menu.options_menu, menu)
-        return true
+
+        //val searchItem = menu?.findItem()
+
+        return super .onCreateOptionsMenu(menu)
     }
 
     override fun onOptionsItemSelected(item: MenuItem?): Boolean {

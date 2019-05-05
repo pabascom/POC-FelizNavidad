@@ -8,4 +8,5 @@
     <string name="casual_friday">Casual Friday</string>
     <string name="search_contacts">Search Contacts</string>
     <string name="use_flashlight">Use Flashlight</string>
+    <string name="title_activity_flashlight">Flashlight</string>
 </resources>
