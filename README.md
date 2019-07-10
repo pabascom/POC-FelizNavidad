@@ -1,7 +1,5 @@
-# Week1Day5NavigationDrawer
-Containing code for the Navigation Drawer practicum.
-
-## Assignment:
+# Feliz Navidad
+## Challenge:
 
 Create an Android application that have multiple activities that are navigated to using NavigationDrawerView
 1. Use launchModes, intentFlags to handle back stack 
